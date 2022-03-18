@@ -36,7 +36,6 @@ Going to learn JavaScript and its frameworks to make a step to my target.
 
 Python solution:
 
-    ```
     import re
 
     def domain_name(url):
@@ -52,7 +51,6 @@ Python solution:
         nude_result = re.compile('(^.*?)\.').findall(url)
         if nude_result:
             return nude_result[0]
-    ```
 
 ### Experience
 
@@ -64,6 +62,14 @@ Python solution:
 * 2008-2010 — Graphic Designer.
 
 ### Education
+
+#### Main
+Interior Designer
+
+#### Additional
+[Python for Everybody Specialization](https://www.coursera.org/specializations/python#courses)
+[Интерактивный тренажер по SQL](https://stepik.org/cert/1370828)
+[Jira: ведение задач на электронных досках](https://stepik.org/cert/947343)
 
 ### Languages knowlege
 * English (B1)
