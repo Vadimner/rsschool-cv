@@ -32,6 +32,28 @@ Going to learn JavaScript and its frameworks to make a step to my target.
 
 ### Code examples
 
+#### [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b)
+
+Python solution:
+
+    ```
+    import re
+
+    def domain_name(url):
+        
+        www_result = re.compile('((?<=www.).+)\.').findall(url)
+        if www_result:
+            return www_result[0]
+        
+        http_result = re.compile('((?<=://).*?)\.').findall(url)
+        if http_result:
+            return http_result[0]
+        
+        nude_result = re.compile('(^.*?)\.').findall(url)
+        if nude_result:
+            return nude_result[0]
+    ```
+
 ### Experience
 
 ### Education
