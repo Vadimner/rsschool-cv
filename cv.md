@@ -67,9 +67,9 @@ Python solution:
 Interior Designer
 
 #### Additional
-[Python for Everybody Specialization](https://www.coursera.org/specializations/python#courses)
-[Интерактивный тренажер по SQL](https://stepik.org/cert/1370828)
-[Jira: ведение задач на электронных досках](https://stepik.org/cert/947343)
+* [Python for Everybody Specialization](https://www.coursera.org/specializations/python#courses)
+* [Интерактивный тренажер по SQL](https://stepik.org/cert/1370828)
+* [Jira: ведение задач на электронных досках](https://stepik.org/cert/947343)
 
 ### Languages knowlege
 * English (B1)
