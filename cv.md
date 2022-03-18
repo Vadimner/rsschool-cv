@@ -56,6 +56,13 @@ Python solution:
 
 ### Experience
 
+* 2017-2022 Engineering Manager.
+* 2015-2017 UX/UI Designer (main).
+* 2013-2015 — UI Designer (main). Junior mobile developer (Native Android and iOS).
+* 2012-2013 — UI Designer. Motion Designer
+* 2010-2012 — UI Designer.
+* 2008-2010 — Graphic Designer.
+
 ### Education
 
 ### Languages knowlege
