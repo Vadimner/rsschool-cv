@@ -1,4 +1,6 @@
-## Vadim Zhminkovskiy
+# Vadim Zhminkovskiy
+![Vadim](https://user-images.githubusercontent.com/5279905/159112973-a461c555-e8e4-4175-8c69-a26a3a6cfd44.jpg)
+
 
 ### Contacts
 * [Telegram](https://t.me/Vadimner)
