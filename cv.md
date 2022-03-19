@@ -1,7 +1,7 @@
 ## Vadim Zhminkovskiy
 
 ### Contacts
-* [tg](https://t.me/Vadimner)
+* [Telegram](https://t.me/Vadimner)
 * [Discord](https://discordapp.com/users/Vadimner#4216)
 * [Mail](mailto:astronomail@gmail.com)
 
