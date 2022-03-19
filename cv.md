@@ -1,6 +1,5 @@
 # Vadim Zhminkovskiy
-![Vadim](https://user-images.githubusercontent.com/5279905/159112973-a461c555-e8e4-4175-8c69-a26a3a6cfd44.jpg)
-
+![Vadim-s](https://user-images.githubusercontent.com/5279905/159113423-2ab43753-cf76-4782-a02b-315333280a74.jpeg)
 
 ### Contacts
 * [Telegram](https://t.me/Vadimner)
