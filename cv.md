@@ -65,7 +65,7 @@ Python solution:
 ## Education
 
 ### Main
-Interior Designer
+Interior Designer (Kyrgyz State University of Construction, Transport and Architecture)
 
 ### Additional
 * [Python for Everybody Specialization](https://www.coursera.org/specializations/python#courses)
