@@ -1,12 +1,12 @@
 # Vadim Zhminkovskiy
 ![Vadim-s](https://user-images.githubusercontent.com/5279905/159113423-2ab43753-cf76-4782-a02b-315333280a74.jpeg)
 
-### Contacts
+## Contacts
 * [Telegram](https://t.me/Vadimner)
 * [Discord](https://discordapp.com/users/Vadimner#4216)
 * [Mail](mailto:astronomail@gmail.com)
 
-### Information
+## Information
 Just a guy who loves IT. I Work in this field since 2012. At first as a UI/UX designer, laiter on as an Engineering Manager.
 
 Already have some experience with Python and its frameworks.
@@ -15,9 +15,9 @@ At the moment main goal to become a "Full Stack" developer.
 
 Going to learn JavaScript and its frameworks to make a step to my target.
 
-### Skills
+## Skills
 
-#### Technical
+### Technical
 * Python
   * Flask
   * FastApi
@@ -27,13 +27,13 @@ Going to learn JavaScript and its frameworks to make a step to my target.
 * UI Design
 * JIRA (and JQL)
 
-#### Other Skills
+### Other Skills
 * People Management
 * Project management methodologies (Agile, Scrum, Kanban, Waterfall)
 
-### Code examples
+## Code examples
 
-#### [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b)
+### [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b)
 
 Python solution:
 
@@ -53,7 +53,7 @@ Python solution:
         if nude_result:
             return nude_result[0]
 
-### Experience
+## Experience
 
 * __2017-2022__ — Engineering Manager.
 * __2015-2017__ — UX/UI Designer (main).
@@ -62,16 +62,16 @@ Python solution:
 * __2010-2012__ — UI Designer.
 * __2008-2010__ — Graphic Designer.
 
-### Education
+## Education
 
-#### Main
+### Main
 Interior Designer
 
-#### Additional
+### Additional
 * [Python for Everybody Specialization](https://www.coursera.org/specializations/python#courses)
 * [Интерактивный тренажер по SQL](https://stepik.org/cert/1370828)
 * [Jira: ведение задач на электронных досках](https://stepik.org/cert/947343)
 
-### Languages knowlege
+## Languages knowlege
 * English (B1)
 * Russian (native)
