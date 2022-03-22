@@ -7,20 +7,28 @@ body {
     justify-content: center;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
 h1 {
     font-size: 3rem;
     font-weight:600;
-    margin: 0rem;
 }
 
 h2 {
     font-size: 2rem;
     font-weight: 400;
-    margin: 0;
+}
+
+h3 {
+    font-size: 2rem;
+    font-weight:600;
 }
 
 aside {
     width: 40%;
+    color: white;
 }
 
 main {
@@ -32,6 +40,17 @@ main {
     justify-content: center;
     width: 1200px;
     box-shadow: 0rem 1rem 4rem #0002;
+}
+
+.heading {
+    display: flex;
+    background-color: #8882;
+}
+
+.accent {
+    width: 1rem;
+    background-color: #f2c200;
+    margin-right: 4rem;
 }
 
 #contact {
